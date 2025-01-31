@@ -25,7 +25,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/testimonials-grid-section.git
+git clone https://github.com/Mustafa-Max/testimonials-grid-section.git
 ```
 
 2. Open `index.html` in your browser
@@ -51,8 +51,7 @@ Open the `index.html` file in any modern web browser to view the testimonials gr
 
 ### Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourhandle](https://www.twitter.com/yourhandle)
+- Frontend Mentor - [@Mustafa-Max](https://www.frontendmentor.io/profile/Mustafa-Max)
 
 ### Acknowledgments
 
